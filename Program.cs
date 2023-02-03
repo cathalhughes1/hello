@@ -180,10 +180,10 @@ namespace hello
             //Console.WriteLine(cont.ToString());
             //Console.WriteLine("sum is" + y.ToString());
             List<int> numberList = new List<int> {1, 3, 5, 3, 4, 2};
-            //numberList.Add(420);
+            //numberList.Add(42);
             //Console.WriteLine(numberList[0]);
             //Tuple<int> newTuple= new Tuple<int> { };
-            //newTuple.add(420);
+            //newTuple.add(42);
             //git change
             List<int> resultList = new List<int>();
             
